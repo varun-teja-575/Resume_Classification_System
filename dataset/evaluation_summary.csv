@@ -1,0 +1,8 @@
+Metric,Value
+Original Dataset,962
+Duplicate Records,796
+Unique Resumes,166
+Categories,25
+Training Samples,132
+Testing Samples,34
+SVM Accuracy,67.65%
